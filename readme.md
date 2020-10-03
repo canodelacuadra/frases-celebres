@@ -1,10 +1,10 @@
 Este es un programa que inserta frases celebres
 =================================================
-*Las frases celebres estarán dentro de un array en el 
+* Las frases celebres estarán dentro de un array en el 
 documento frasescelebres.php
-*en programa.php escribiremos la función frasescelebres
-*en index.php ejecutaremos la función con un html básico
-*en style css, daremos estilo a las frases insertadas en index.php
+* en programa.php escribiremos la función frasescelebres
+* en index.php ejecutaremos la función con un html básico
+* en style css, daremos estilo a las frases insertadas en index.php
 ====================================
 Pasos de la elaboración del programa
 ====================================
