@@ -1,3 +1,8 @@
+## Plugin wordpress Frases Célebres
+Partimos de un programita hecho en php
+Hacemos un plugin con wordpress
+
+
 Este es un programa que inserta frases celebres
 =================================================
 * Las frases celebres estarán dentro de un array en el 
